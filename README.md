@@ -20,7 +20,7 @@ npm install super-compress-image
 Import the `CompressImg` class from the library, create a new instance, and call the `getBlob` method to compress the images.
 
 ```javascript
-import CompressImg from 'compress-img';
+import CompressImg from 'super-compress-img';
 
 const compressor = new CompressImg({
   files: [file1, file2],
