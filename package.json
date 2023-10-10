@@ -1,13 +1,13 @@
 {
-  "name": "compress-img",
-  "version": "1.0.0",
+  "name": "super-compress-image",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/compress-img.js",
   "scripts": {
     "build": "rollup -c"
   },
   "keywords": [],
-  "author": "",
+  "author": "yiong",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.23.0",
